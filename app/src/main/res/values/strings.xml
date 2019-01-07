@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="img_description2">image2</string>
+    <string name="img_description3">image3</string>
+    <string name="button">Button</string>
+    <string name="text">"合成画像"</string>
+
+</resources>
